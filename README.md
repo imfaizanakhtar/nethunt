@@ -1,10 +1,13 @@
-# nethunt
-most powerfull internet
-# nethunt
-nethunt the most powerful nethunter
+# nethunt || most powerfull internet
+
+nethunt is the most powerful nethunter.
+
 Download the File nethunt.c to your Desktop
+
 Open Terminal and type these commands
+```bash
 cd Desktop
 gcc nethunt.c -o nethunt
-USAGE : ./xerxes www.site.com 80
-nethunt by HUnter Faizan
+USAGE : ./nethunt www.site.com 80
+nethunt by Hunter Faizan
+```
